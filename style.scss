@@ -393,9 +393,10 @@ body {
     margin-bottom: 10px;
 }
 
-@media(max-width: 375px) {
+@media(max-width: 600px) {
     body {
         width: 375px;
+       margin: auto 0;
     }
 
     .main {
