@@ -369,7 +369,7 @@ body {
   margin-bottom: 10px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 660px) {
   body {
      margin: 0 auto;
   }
