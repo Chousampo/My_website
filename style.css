@@ -371,7 +371,6 @@ body {
 
 @media (max-width: 600px) {
   body {
-    width: 375px;
      margin: 0 auto;
   }
   .main {
